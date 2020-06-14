@@ -1,3 +1,9 @@
+---
+title: Week 6
+parent: OTP
+has_children: true
+nav_order: 1
+---
 # What makes a good founder
 Andreas Birnik - Antler, >130. Deep tech, PhD cranfield
 What VCs are looking for

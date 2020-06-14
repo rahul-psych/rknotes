@@ -1,3 +1,9 @@
+---
+title: Week 5
+parent: OTP
+has_children: true
+nav_order: 1
+---
 # Design thinking part 2
 Discussed Google - SF as an odd testing ground, not working out the market, contrasted with HoloLens, transition from niche to general vs general to niche
 
