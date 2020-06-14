@@ -1,3 +1,9 @@
+---
+title: Week 2
+parent: OTP
+has_children: true
+nav_order: 1
+---
 # IGNITE workshop
 
 ## Agenda

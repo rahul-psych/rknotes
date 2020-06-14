@@ -1,3 +1,9 @@
+---
+title: Week 1
+parent: OTP
+has_children: true
+nav_order: 1
+---
 # Induction
 ## Things to look up
 * Lunch and learn - fortnightly Tuesdays @ 1230 - 1300
