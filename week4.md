@@ -1,3 +1,9 @@
+---
+title: Week 4
+parent: OTP
+has_children: true
+nav_order: 1
+---
 # Design thinking
 ![](pastedimages/2020-05-14-15-27-16.png)
 Fot com era, often there was a focus on feasability, then the viability but then did not have a market.

@@ -1,4 +1,11 @@
+---
+title: Week 3
+parent: OTP
+has_children: true
+nav_order: 1
+---
 <!-- TOC -->
+
 # TOC
 - [Looking for problems to solve](#looking-for-problems-to-solve)
     - [Choice quotes](#choice-quotes)
